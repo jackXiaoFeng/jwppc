@@ -12,8 +12,8 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- ipa包下载链接 -->
-					<string>https://raw.githubusercontent.com/jackXiaoFeng/jwppc/master/JWMeeting.ipa</string>
-					<!-- <string>https://jiuwei-1.oss-cn-zhangjiakou.aliyuncs.com/version-ios/JWMeeting.ipa</string> -->
+					<!-- <string>https://raw.githubusercontent.com/jackXiaoFeng/jwppc/master/JWMeeting.ipa</string> -->
+					<string>https://jiuwei-1.oss-cn-zhangjiakou.aliyuncs.com/version-ios/JWMeeting.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
