@@ -12,8 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- ipa包下载链接 -->
-					<string>https://jiuwei-1.oss-cn-zhangjiakou.aliyuncs.com/version-ios/JWMeeting.ipa
-</string>
+					<string>https://jiuwei-1.oss-cn-zhangjiakou.aliyuncs.com/version-ios/JWMeeting.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -22,8 +21,7 @@
 					<integer>0</integer>
 					<key>url</key>
 					<!-- APPicon图标57*57链接 -->
-					<string>http://www.meek.wang/images/image57.png
-</string>
+					<string>http://www.meek.wang/images/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
