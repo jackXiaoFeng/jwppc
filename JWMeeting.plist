@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<!-- ipa包下载链接 -->
+					<string>https://github.com/jackXiaoFeng/JWMK/raw/master/JWMeeting.ipa
+</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<integer>0</integer>
+					<key>url</key>
+					<!-- APPicon图标57*57链接 -->
+					<string>https://github.com/jackXiaoFeng/JWMK/raw/master/image57.png
+</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<!-- APPicon图标512*512链接 -->
+					<string>https://github.com/jackXiaoFeng/JWMK/raw/master/image512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<!-- APP Bundle ID -->
+				<string>com.aifeng.jwmeeting</string>
+				<key>bundle-version</key>
+				<!-- APP版本号 -->
+				<string>1.0.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<!-- APP名称 -->
+				<string>秘客</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
