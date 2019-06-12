@@ -12,8 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- ipa包下载链接 -->
-					<string>https://github.com/jackXiaoFeng/JWMK/raw/master/JWMeeting.ipa
-</string>
+					<string>https://raw.githubusercontent.com/jackXiaoFeng/jwppc/master/JWMeeting.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -22,8 +21,7 @@
 					<integer>0</integer>
 					<key>url</key>
 					<!-- APPicon图标57*57链接 -->
-					<string>https://github.com/jackXiaoFeng/JWMK/raw/master/image57.png
-</string>
+					<string>https://raw.githubusercontent.com/jackXiaoFeng/jwppc/master/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -32,7 +30,7 @@
 					<true/>
 					<key>url</key>
 					<!-- APPicon图标512*512链接 -->
-					<string>https://github.com/jackXiaoFeng/JWMK/raw/master/image512.png</string>
+					<string>https://raw.githubusercontent.com/jackXiaoFeng/jwppc/master/image512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
